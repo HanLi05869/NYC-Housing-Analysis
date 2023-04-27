@@ -7,13 +7,17 @@ Some image results have been updated in this README.md file:
 
 ![image](https://github.com/HanLi05869/NYC-Housing-Analysis/blob/main/SomeImgRes/2.png)
 
-![image](https://github.com/HanLi05869/NYC-Housing-Analysis/blob/main/SomeImgRes/3.png)
-
 ![image](https://github.com/HanLi05869/NYC-Housing-Analysis/blob/main/SomeImgRes/4.png)
 
-![image](https://github.com/HanLi05869/NYC-Housing-Analysis/blob/main/SomeImgRes/5.png)
-
 ![image](https://github.com/HanLi05869/NYC-Housing-Analysis/blob/main/SomeImgRes/6.png)
+
+![image](https://github.com/HanLi05869/NYC-Housing-Analysis/blob/main/SomeImgRes/3.png)
+
+![image](https://github.com/HanLi05869/NYC-Housing-Analysis/blob/main/SomeImgRes/9.png)
+
+![image](https://github.com/HanLi05869/NYC-Housing-Analysis/blob/main/SomeImgRes/10.png)
+
+![image](https://github.com/HanLi05869/NYC-Housing-Analysis/blob/main/SomeImgRes/5.png)
 
 ![image](https://github.com/HanLi05869/NYC-Housing-Analysis/blob/main/SomeImgRes/7.png)
 
